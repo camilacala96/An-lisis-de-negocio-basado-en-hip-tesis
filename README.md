@@ -1,2 +1,2 @@
-# An-lisis-de-negocio-basado-en-hip-tesis
+# Analisis-de-negocio-basado-en-hipotesis
 Proyecto Académico para preparación como Analista de datos
